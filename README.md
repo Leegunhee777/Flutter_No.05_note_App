@@ -1,6 +1,6 @@
 # note
 
-A new Flutter project.
+로컬디비를 사용한 간단한 노트앱 _ 클린아키텍쳐 적용
 
 ## Getting Started
 
